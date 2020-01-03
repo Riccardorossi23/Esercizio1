@@ -28,6 +28,7 @@ namespace Esercizio1
         {
             return (num1 + num2) / 2;
 
+
         }
     }
 }

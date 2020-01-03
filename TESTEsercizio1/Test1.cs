@@ -60,6 +60,7 @@ namespace TESTEsercizio1
             double med3 = Esercizio1MaxMinMed.Media(7, 7);
             Assert.AreEqual(med3, 7);
 
+
         }
     }
 }
